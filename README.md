@@ -13,9 +13,9 @@ To execute the code with the provided dataset from Kaggle, simply run it. No add
 # Results and Conclusion
 The results and discussion of this project involve the following components:
 
-Baseline ANN trained model results
-Hyperparameter tuned model training and testing results
-Evaluation of the hyperparameter tuned model using visualization techniques
+- Baseline ANN trained model results
+- Hyperparameter tuned model training and testing results
+- Evaluation of the hyperparameter tuned model using visualization techniques
 
 # Contributors
 - Aleksandar Georgievski (400248584)
